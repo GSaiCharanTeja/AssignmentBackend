@@ -1,3 +1,10 @@
+## Live Backend
+https://assignmentbackend-vvr0.onrender.com
+
+## Frontend Repository
+https://github.com/GSaiCharanTeja/AssignmentFrontend
+
+
 # Task Management Backend
 
 A secure Task Management REST API built using Spring Boot, Spring Security, JWT Authentication, PostgreSQL, and JPA.
@@ -28,9 +35,3 @@ A secure Task Management REST API built using Spring Boot, Spring Security, JWT 
 - POST /api/v1/tasks
 - PUT /api/v1/tasks/{id}
 - DELETE /api/v1/tasks/{id}
-
-## Live Backend
-https://assignmentbackend-vvr0.onrender.com
-
-## Frontend Repository
-https://github.com/GSaiCharanTeja/AssignmentFrontend
